@@ -1,0 +1,9 @@
+"""# 평균입찰가 확인 체크 # 기본값 pc 1위 평균
+_path ='//*[@id="root"]/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div/div/div/div/div[2]/div/div/div/div/label/span[1]'
+driver.find_element(by=By.XPATH,value=_path).click()
+# 조회
+_path ='//*[@id="root"]/div/div[2]/div/div[1]/div[2]/div[1]/div[3]/form/button[1]'
+driver.find_element(by=By.XPATH,value=_path).click()
+# 다운로드
+_path ='//*[@id="root"]/div/div[2]/div/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div/button'
+driver.find_element(by=By.XPATH,value=_path).click()"""
