@@ -7,3 +7,7 @@ def my_secrete_key():
 def my_customer_id():
     CUSTOMER_ID = '2714412'
     return CUSTOMER_ID
+def naver_id():
+    return 'votenffl'
+def naver_pw():
+    return 'beggars6569!'
