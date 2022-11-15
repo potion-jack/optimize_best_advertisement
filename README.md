@@ -1,8 +1,17 @@
 1. naver_datalab shopping trend crawling
+- naver_shoping_top_keyword
 
 2. by naver_ad_api get each of click and ads
+- naver_ad_relation_api
 
 3. get naver_ad_price by selenium
+- naver_ad_price_crawler
+
+-todo
+### pc_click and mobile_click must have strong correlation
+#### L2_regulation based Ridge regression?
+
+
 
 ```
 .
